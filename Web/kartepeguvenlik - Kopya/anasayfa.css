@@ -1,0 +1,48 @@
+/*CONTENT*/
+/*body {
+	background-image: url("resimler/bg4.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	width:90%;
+	height: auto;
+	overflow: auto;
+	margin: auto;
+	text-align: center;
+	padding: 0px;
+}*/
+
+.satir6{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.satir6 .sutun{
+	padding: 50px;
+	height: 500px;
+}
+
+.satir6 .sutun a{
+	text-decoration: none;
+}
+
+.satir6 .sutun a:hover{
+	text-decoration: none;
+}
+
+.satir6 .sutun a img{
+	width: 400px;
+	height: 400px;
+	border-radius: 100px;
+	text-align: center;
+}
+
+.satir6 .sutun a img:hover{
+	width: 420px;
+	height: 420px;
+}
+
+.satir6 .sutun a p{
+	font-size: 50px;
+	color: white;
+}

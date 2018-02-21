@@ -1,0 +1,75 @@
+body {
+	background-image: url('bg4.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+div.container {
+	background-image: url('ImDesign.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0px;
+	width:100%;
+}
+
+header {
+	color: gold;
+	background-color: black;
+	text-align: center;
+}
+
+nav {
+	padding: 0;
+	background-color: black;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: none;
+}
+
+nav ul li {
+	float: left;
+	font-family: verdana;
+	font-size: 25px;
+}
+
+nav ul li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+	background-color: #333;
+}
+
+section {
+	float: left;
+	max-width: 300px
+	padding: 1em;
+	background-color: teal;
+}
+
+aside {
+	text-align: center;
+	padding: 1em;
+}
+
+p.baslik {
+	font-size: 200px;
+}
+
+footer {
+	padding: 20px;
+	color: gold;
+	background-color: black;
+	text-align: center;
+	margin: 0;
+}

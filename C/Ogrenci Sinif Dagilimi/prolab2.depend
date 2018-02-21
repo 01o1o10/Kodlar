@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508858614 source:c:\users\ilyas mammadov\desktop\prolab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1509622769 source:c:\users\ilyas mammadov\desktop\Çalýþmalar\kodlar\c\ogrenci sinif dagilimi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

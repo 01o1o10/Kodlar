@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483912318 source:c:\users\İlyas\desktop\ikiliagac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<conio/myconio.h>
+	<time.h>
+

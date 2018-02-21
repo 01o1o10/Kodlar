@@ -1,0 +1,42 @@
+.urunler1{
+	display: block;
+	margin: 30px auto;
+	width: 70%;
+	padding: 50px;
+	height: auto;
+	background-color: rgba(255,255,255, 0.3);
+	border-radius: 50px;
+}
+
+.urunler1 p{
+	overflow: hidden;
+	font-size: 100px;
+	color: white;
+	text-shadow: 6px 4px black;
+}
+
+.urunler2{
+	display: block;
+	margin: 30px auto;
+	width: 70%;
+	padding: 50px;
+	height: auto;
+	background-color: rgba(255,255,255, 0.6);
+	border-radius: 50px;
+}
+
+.nav-item a{
+	text-shadow: 2px 1px black;
+}
+
+.nav-link{
+	color: white;
+	font-size: 25px;
+}
+
+.tab-content div img{
+	display: block;
+	margin: 0;
+	width: 100%;
+	height: auto;
+}

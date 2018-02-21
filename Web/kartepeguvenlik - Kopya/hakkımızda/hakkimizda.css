@@ -1,0 +1,43 @@
+.satir6{
+	display: block;
+	margin: 30px auto;
+	width: 70%;
+	padding: 50px;
+	height: auto;
+	background-color: rgba(255,255,255, 0.3);
+	border-radius: 50px;
+}
+
+.satir6 .col p{
+	font-size: 100px;
+	color: white;
+	text-shadow: 6px 4px black;
+}
+
+.satir7{
+	display: block;
+	margin: 30px auto;
+	width: 70%;
+	padding: 50px;
+	height: auto;
+	background-color: rgba(255,255,255, 0.6);
+	border-radius: 50px;
+}
+
+.satir7 .col{
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.satir7 .col p{
+	text-align: center;
+	font-size: 30px;
+	color: #004000;
+}
+
+.satir7 .col h1{
+	color: #004000;
+	font-size: 45px;
+}

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509729905 source:c:\users\ilyas mammadov\desktop\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
